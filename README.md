@@ -4,7 +4,7 @@
 
 After completing my postgraduate studies in environmental science, I've developed an interest in Data Analysis.
 
-Since I began my studies at Yandex, I've grown to love SQL and Python.
+Since I began my studies at Practicum Bootcamp, I've grown to love SQL and Python.
 
 I enjoy putting in a lot of effort when working on challenging projects.
 

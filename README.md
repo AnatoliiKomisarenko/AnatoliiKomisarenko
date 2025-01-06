@@ -2,7 +2,7 @@
 
 ### My name is Anatolii Komisarenko
 
-## I'm Middle Data Analyst in DNS Retail
+## I'm a Middle Data Analyst in DNS Retail
 
 * In the Sales Channel Development department, I work in data research.
 * My employment began in 2024.

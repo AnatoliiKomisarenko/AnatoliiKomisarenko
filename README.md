@@ -4,7 +4,7 @@
 
 ## I'm a Middle Data Analyst in DNS Retail
 
-* In the Sales Channel Development department, I work in data research.
+* In the Sales Channels Development department, I work in data research.
 * My employment began in 2024.
 * I used to work as a scientist studying the ecology of marine systems.
 

@@ -7,6 +7,7 @@
 * In the Sales Channels Development department, I work in data research.
 * My employment began in 2024.
 * I used to work as a scientist studying the ecology of marine systems.
+* In 2025, I completed a Practicum Bootcamp with a focus on data analysis.
 
 ### My skills:
 

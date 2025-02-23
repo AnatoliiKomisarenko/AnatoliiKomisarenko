@@ -4,10 +4,10 @@
 
 ## I'm a Middle Data Analyst in DNS Retail
 
-* In the Sales Channels Development department, I work in data research.
-* My employment began in 2024.
 * I used to work as a scientist studying the ecology of marine systems.
+* My employment in data analysis began in 2024.
 * In 2025, I completed a Practicum Bootcamp with a focus on Data Analysis.
+* Nowadays in the Sales Channels Development department, I work in data research.
 
 ### My skills:
 
